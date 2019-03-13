@@ -14,7 +14,7 @@ namespace Project1
         [Fact]
         public void Test2()
         {
-            Assert.True(2 == 2);
+            Assert.True(2 == 3);
         }
     }
 }
